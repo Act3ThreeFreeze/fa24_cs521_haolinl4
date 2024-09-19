@@ -1,0 +1,5 @@
+mnist_data
+*.png
+*.pdf
+cw.py
+runutils.py
